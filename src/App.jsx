@@ -6,7 +6,6 @@ import Navbar from './components/Nabvar'
 import About from './components/About'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
-import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
 
 function App() {

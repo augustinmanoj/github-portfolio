@@ -31,11 +31,6 @@ Collect Contact details for future ongoing relation.”
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="https://myottbucket.s3.eu-north-1.amazonaws.com/GYC_8126.JPG"
-          />
         </div>
       </div>
     </section>
